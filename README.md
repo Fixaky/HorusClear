@@ -18,4 +18,6 @@ Antes de você tentar executar a api, você vai precisar de uma ferramenta de um
 
 ##### ✍ Edição de arquivo
 
-##### 👨‍💻 *[Caso for repostar o codigo deixe os creditos na README.md do projeto marcando os responsáveis pela criação do projeto!]*
+##### 👨‍💻 *Caso for repostar o codigo deixe os creditos na README.md do projeto marcando os responsáveis pela criação do projeto!*
+
+<img align="center" alt="GIF" height="400" width="800" src="https://cdn.discordapp.com/attachments/793277413626347572/794999873141211246/tumblr_olhh66kNOo1sbo5fso1_540.gif" />
