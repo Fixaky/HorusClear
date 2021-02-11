@@ -1,6 +1,6 @@
 # 📑 Horus Clear
 
-Olá me chamo Lucas, mas podem me chamar de Fixaky :D!. Hoje irei publicar um clear account (Limpador de contas) feito por mim e meu amigo blxcknoxty, espero que gostem do nosso projeto :D!
+Olá me chamo Lucas, mas podem me chamar de Fixaky :D!. Hoje irei publicar um clear account (Limpador de contas) feito por mim, espero que gostem do meu projeto :D!
 
 ## 🔐 Como funciona?
 
